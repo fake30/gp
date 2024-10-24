@@ -1,0 +1,39 @@
+Practical 1:
+Aim: Write a pygame program to demonstrate Keyboard Events.
+
+Practical 2:-
+Aim: Write a pygame program to demonstrate Mouse Events.
+
+Practical 3:-
+Aim: Write a pygame program to demonstrate Drawing Shape.
+
+Practical 4:-
+Aim: Write a pygame program to demonstrate Display Image Pygame
+Logo.
+
+Practical 5:-
+Aim: Write a pygame program to demonstrate Draw 3 Circle.
+
+Practical 6:-
+Aim: Write a pygame program to initially Display Blank Wnidow. Each
+pressed will be display along side with each other.
+
+Practical 7:-
+Aim: Write a pygame program to demonstrate Moving Image Using Mouse.
+
+Practical 8:-
+Aim: Write a pygame program to demonstrate Draw rectangle with
+Keyborad.
+
+Practical 9:-
+Aim: Write a pygame program to demonstrate Draw rectangle with
+Mouse.
+
+Practical 10
+Aim: Develope 2D Shooter game
+
+Practical 11 :
+Aim: moving cursor in game window
+
+Practical 12 :
+Aim: Snake game
